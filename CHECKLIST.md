@@ -16,16 +16,17 @@
 [x] Clean unecessary default files
 [x] Install/setup Tailwind
 [x] Create folders/files structure
-[] Connect firebase
-[] Components:
-[] Navbar
-[] LogIn
-[] LogOut
+[x] Connect firebase
+### [] Components:
+[x] Navbar
+[x] LogIn
+[x] LogOut
 [] Chat
 [] Message
 [] SendMessage
-[] Logics to implement:
-[] Button login/logout conditional
+
+### [] Logics to implement:
+[x] Button login/logout conditional
 [] Sent/Fetch data from firebase database
 [] UseState Hook in SendMessage component
 [] UseRef Hook in Scroll
