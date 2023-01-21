@@ -6,7 +6,7 @@ import Message from './Message'
 import SendMessage from './SendMessage'
 
 const style = {
-  main: `flex flex-col p-[10px] bg-gray-100 h-[90vh]`,
+  main: `flex flex-col p-[10px] bg-[#F6F6FA] h-[92.5vh]`,
 }
 
 const Chat = () => {

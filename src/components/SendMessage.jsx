@@ -4,9 +4,9 @@ import React, { useState } from 'react'
 import { auth, db } from '../firebase'
 
 const style = {
-  form: `h-16 w-full max-w-[728px]  flex text-xl absolute bottom-2 px-2 sm:px-0`,
-  input: `w-full text-xl p-3 bg-gray-900 text-white outline-none border-none`,
-  button: `w-[20%] bg-green-500`,
+  form: `h-16 w-full max-w-[728px]  flex text-xl absolute bottom-2 px-2`,
+  input: `w-full text-xl p-3 bg-[#374478] text-white outline-none border-none rounded-md`,
+  button: `w-[20%] bg-gradient-to-r from-[#2166EF] to-[#32c8c6] hover:from-[#32c8c6] hover:to-[#2166EF] rounded-md ml-2 text-white`,
 }
 
 const SendMessage = ({ scroll }) => {

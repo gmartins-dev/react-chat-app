@@ -35,7 +35,8 @@
 
 ## Production
 
-[] Deploy
+[x] Deploy
+[x] Redesign colors based on (https://stream.bid/)
 [] Test everything in production
 [] Take screens and videos to demonstration
 [] Make a README
