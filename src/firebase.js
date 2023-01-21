@@ -3,6 +3,7 @@ import { initializeApp } from 'firebase/app'
 
 // SDKs for Firebase products that you want to use
 import { getAuth } from 'firebase/auth'
+import { getFirestore } from 'firebase/firestore'
 
 // Web app's Firebase configuration
 const firebaseConfig = {
@@ -14,8 +15,7 @@ const firebaseConfig = {
   appId: '1:374718749235:web:c8a76cb612ed1ed0b62146',
 }
 
-// Initialize Firebase
+// Initialize Firebase Services
 const app = initializeApp(firebaseConfig)
-
-// Initialize Firebase Authentication and get a reference to the service
 export const auth = getAuth(app)
+export const db = getFirestore(app)

@@ -17,21 +17,21 @@
 [x] Install/setup Tailwind
 [x] Create folders/files structure
 [x] Connect firebase
-### [] Components:
+### [x] Components:
 [x] Navbar
 [x] LogIn
 [x] LogOut
-[] Chat
-[] Message
-[] SendMessage
+[x] Chat
+[x] Message
+[x] SendMessage
 
-### [] Logics to implement:
+### [x] Logics to implement:
 [x] Button login/logout conditional
-[] Sent/Fetch data from firebase database
-[] UseState Hook in SendMessage component
-[] UseRef Hook in Scroll
-[] Check if is a valid(not empty) message
-[] Use the "uid" to define the side of message shows (left or right)
+[x] Sent/Fetch data from firebase database
+[x] UseState Hook in SendMessage component
+[x] UseRef Hook in Scroll
+[x] Check if is a valid(not empty) message
+[x] Use the "uid" to define the side of message shows (left or right)
 
 ## Production
 

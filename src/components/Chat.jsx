@@ -1,12 +1,12 @@
 // @ts-nocheck
-import React, { useState, useEffect, useRef } from 'react'
+import { collection, onSnapshot, orderBy, query } from 'firebase/firestore'
+import React, { useEffect, useRef, useState } from 'react'
+import { db } from '../firebase'
 import Message from './Message'
 import SendMessage from './SendMessage'
-import { db } from '../firebase'
-import { query, collection, orderBy, onSnapshot } from 'firebase/firestore'
 
 const style = {
-  main: `flex flex-col p-[10px]`,
+  main: `flex flex-col p-[10px] bg-gray-100 h-[90vh]`,
 }
 
 const Chat = () => {
