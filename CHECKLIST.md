@@ -1,6 +1,6 @@
-## STEPS/CHECK-LIST
+# Workflow / Checklist
 
-### Pré-production
+## Planning
 
 [x]Thinking/make a plan about how do what is propuse for the Test Description
 [x]Choose what tech stack to use in this project:
@@ -10,7 +10,7 @@
 -TailwindCSS
 -Firebase (auth provider and database)
 
-### Production
+## Development
 
 [x] Create initial project with Vite.js
 [x] Clean unecessary default files
@@ -32,10 +32,10 @@
 [] Check if is a valid(not empty) message
 [] Use the "uid" to define the side of message shows (left or right)
 
-### Pos-production
+## Production
 
 [] Deploy
-[] Test everything
+[] Test everything in production
 [] Take screens and videos to demonstration
 [] Make a README
 [] Make a presentation
