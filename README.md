@@ -21,7 +21,7 @@
 
 ## 🗃 Project
 
-Real Time Chat Application using React and Firebase to build.
+Real Time Chat Application builded using React and Firebase.
 
 </br>
 
