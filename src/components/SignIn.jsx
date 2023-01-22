@@ -1,8 +1,8 @@
 import React from 'react'
 import GoogleButton from 'react-google-button'
 
-import { auth } from '../firebase'
 import { GoogleAuthProvider, signInWithRedirect } from 'firebase/auth'
+import { auth } from '../firebase'
 
 const style = {
   wrapper: `flex justify-center`,
@@ -16,7 +16,7 @@ const googleSignIn = () => {
 const SignIn = () => {
   return (
     <div className={style.wrapper}>
-      <GoogleButton onClick={googleSignIn} />
+      <GoogleButton type='dark' onClick={googleSignIn} />
     </div>
   )
 }
