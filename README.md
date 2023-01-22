@@ -38,9 +38,7 @@ This project was developed with the following technologies:
 <img  align="center"  alt="MongoDB"  height="30"  width="30"  src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"> **Firebase**
  
   <img  align="center"  alt="StyledComponents"  height="30"  width="30"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"> **TailwindCSS**
-  
     <img  align="center"  alt="StyledComponents"  height="30"  width="30"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"> **Vite.js**
-  
 
 </br>
 
