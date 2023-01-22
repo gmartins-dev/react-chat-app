@@ -66,14 +66,8 @@ This project was developed with the following technologies:
 </p>
 <p  align="center">
   <h5 align="center">📱 Mobile:</h5>
-  <kbd>
-<img width="600px" style="border-radius: 5px" height="900px" src="public/assets/demo-mobile.png" alt="">
-</kbd>
-</p>
-
-<p align="center">
 <kbd>
-<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/8a/b6/4YftemEL_o.png" alt="">
+<img width="600" style="border-radius: 5px" height="900" src="public/assets/demo-mobile.png" alt="">
 </kbd>
 </p>
 
