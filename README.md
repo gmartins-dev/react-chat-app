@@ -48,22 +48,24 @@ This project was developed with the following technologies:
 
 ## 💻 Demonstration
 
-</br>
 
 <h5 align="center"> 🔗 Online: https://react-chat-app-lovat.vercel.app</h5>
 
 </br>
 <p  align="center">
+  <h5 align="center">👨‍💻👩‍💻 Two user view:</h5>
   <kbd>
 <img width="100%" style="border-radius: 5px" height="70%" src="public/assets/demo-dual.png" alt="">
 </kbd>
 </p>
 <p  align="center">
+  <h5 align="center">🖥 Desktop:</h5>
   <kbd>
 <img width="100%" style="border-radius: 5px" height="70%" src="public/assets/demo-desktop.png" alt="">
 </kbd>
 </p>
 <p  align="center">
+  <h5 align="center">📱 Mobile:</h5>
   <kbd>
 <img width="600px" style="border-radius: 5px" height="900px" src="public/assets/demo-mobile.png" alt="">
 </kbd>
