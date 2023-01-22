@@ -55,17 +55,17 @@ This project was developed with the following technologies:
 </br>
 <p  align="center">
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="/assets/demo-dual.png" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/assets/demo-dual.png" alt="">
 </kbd>
 </p>
 <p  align="center">
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="/assets/demo-desktop.png" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/assets/demo-desktop.png" alt="">
 </kbd>
 </p>
 <p  align="center">
   <kbd>
-<img width="600px" style="border-radius: 5px" height="900px" src="/assets/demo-mobile.png" alt="">
+<img width="600px" style="border-radius: 5px" height="900px" src="public/assets/demo-mobile.png" alt="">
 </kbd>
 </p>
 
