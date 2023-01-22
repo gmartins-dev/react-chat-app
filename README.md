@@ -71,6 +71,11 @@ This project was developed with the following technologies:
 </kbd>
 </p>
 
+<p align="center">
+<kbd>
+<img width="300" style="border-radius: 5px" height="600" src="https://images2.imgbox.com/8a/b6/4YftemEL_o.png" alt="">
+</kbd>
+</p>
 
 </br>
 
