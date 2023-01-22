@@ -10,11 +10,10 @@ const style = {
 
 const Navbar = () => {
   const [user] = useAuthState(auth)
-  console.log(user)
   return (
     <div className={style.nav}>
       <img
-        src='../../public/assets/logo-steambid.png'
+        src='/assets/logo-steambid.png'
         alt='StreamBid Company Logo White'
         width='50px'
         height='50px'
