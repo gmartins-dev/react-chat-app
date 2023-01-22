@@ -5,7 +5,7 @@ import LogOut from './LogOut'
 import SignIn from './SignIn'
 const style = {
   nav: `bg-[#20273D] h-20 flex justify-between items-center p-4 `,
-  heading: `text-white text-3xl`,
+  heading: `text-white text-3xl hidden sm:block`,
 }
 
 const Navbar = () => {
