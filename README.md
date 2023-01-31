@@ -83,23 +83,13 @@ $ git clone https://github.com/guilhermemm-dev/react-chat-app
 # Install the dependencies
 
 $ yarn install or npm install
-```
 
-- Run backend server:
+# Run
 
-```bash
-$ cd backend
-npm run dev
+$ yarn run dev or npm run dev
 
 ```
 
-- Run web/desktop applicaton:
-
-```bash
-$ cd frontend
-npm run dev
-
-```
 
 
 </br>
